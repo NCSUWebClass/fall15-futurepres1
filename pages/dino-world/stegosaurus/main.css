@@ -1,0 +1,11 @@
+img{
+	display: inline-block;
+	width: 40%;
+	margin-bottom: 2%;
+}
+
+#info{
+	display: inline-block;
+	width: 54%;
+	margin: 0 2% 2% 2%;
+}

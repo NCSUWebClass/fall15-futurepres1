@@ -1,0 +1,78 @@
+#ostrich-antelope {
+    background-image: url('../../images/africa/ostrich.jpg') !important;
+    background-position: center;
+}
+
+#ostriches, #ostriches2 {
+    background-image: url('../../images/africa/ostrich.jpg') !important;
+    background-position: center;
+}
+
+#antelopes {
+    background-image: url('../../images/africa/antelope.jpg') !important;
+    background-position: center;
+}
+
+#rhinoceros {
+    background-image: url('../../images/africa/rhinoceros.jpg') !important;
+    background-position: center;
+}
+
+#elephant {
+    background-image: url('../../images/africa/elephant.jpg') !important;
+    background-position: center;
+}
+
+#gorilla-baboon {
+    background-image: url('../../images/africa/gorilla.jpg') !important;
+    background-position: center;
+}
+
+#gorillas {
+    background-image: url('../../images/africa/gorilla.jpg') !important;
+    background-position: center;
+}
+
+#baboons {
+    background-image: url('../../images/africa/baboon.jpg') !important;
+    background-position: center;
+}
+
+#zebra-ostrich-giraffe {
+    background-image: url('../../images/africa/zebra.jpg') !important;
+    background-position: center;
+}
+
+#zebras {
+    background-image: url('../../images/africa/zebra.jpg') !important;
+    background-position: center;
+}
+
+#giraffes {
+    background-image: url('../../images/africa/giraffe.jpg') !important;
+    background-position: center;
+}
+
+#lemur {
+    background-image: url('../../images/africa/lemur.jpg') !important;
+    background-position: center;
+}
+
+#chimpanzee {
+    background-image: url('../../images/africa/chimpanzee.jpg') !important;
+    background-position: center;
+}
+
+#lion {
+    background-image: url('../../images/africa/lion.jpg') !important;
+    background-position: center;
+}
+
+#red-river-hog {
+    background-image: url('../../images/africa/red-river-hog.jpg') !important;
+    background-position: center;
+}
+
+.animal-content {
+    height: 500px;
+}

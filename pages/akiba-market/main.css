@@ -1,0 +1,35 @@
+#safari-gift-shop  {
+    background:url(../../images/akiba-market/safari_gs.jpg);
+    background-size: cover;
+}
+#leopard-spot-gift-shop {
+    background:url(../../images/akiba-market/leopardSpot_gs.jpg);
+    background-size: cover;
+}
+#picnic-areas {
+    background: url(../../images/akiba-market/Picnic.jpg);
+    background-size: cover;
+}
+#oak-hill-lakeside {
+    background: url(../../images/akiba-market/oakhls.jpeg);
+    background-size: cover;
+}
+#crocodile-cafe {
+    background: url(../../images/akiba-market/cafe.jpg);
+    background-size: cover;
+}
+
+#ticket-booth {
+    background: url(../../images/akiba-market/ticket_booth.jpg);
+    background-size: cover;
+}
+
+#hippo-beach {
+    background: url(../../images/akiba-market/hippo_beach.jpg);
+    background-size: cover;
+}
+
+#amphitheater {
+    background: url(../../images/akiba-market/amphitheater.jpg);
+    background-size: cover;
+}

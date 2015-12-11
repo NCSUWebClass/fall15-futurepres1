@@ -1,0 +1,85 @@
+#carousel {
+    background-image: url('../../images/junction-plaza/carousel.jpg') !important;
+    background-position: center;
+}
+
+#continental-cool-treats {
+    background-image: url('../../images/junction-plaza/continental-cool-treats.jpg') !important;
+    background-position: center;
+}
+
+#continental-crossings-pizza {
+    background-image: url('../../images/junction-plaza/continental-crossings-pizza.jpg') !important;
+    background-position: center;
+}
+
+#junction-springs-cafe {
+    background-image: url('../../images/junction-plaza/junction-springs-cafe.jpg') !important;
+    background-position: center;
+    background-size: cover;
+}
+
+#junction-theatre {
+    background-image: url('../../images/junction-plaza/junction-theatre.jpg') !important;
+    background-position: center;
+}
+
+#junction-tram-stop {
+    background-image: url('../../images/junction-plaza/junction-tram-stop.jpg') !important;
+    background-position: center;
+    background-size: cover;
+}
+
+#kids-junction-gift-shop {
+    background-image: url('../../images/junction-plaza/kids-junction-gift-shop.jpg') !important;
+    background-position: center;
+    background-size: cover;
+}
+
+#madagascar-3 {
+    background-image: url('../../images/junction-plaza/madagascar-3.jpg') !important;
+}
+
+#rio {
+    background-image: url('../../images/junction-plaza/rio.gif') !important;
+}
+
+#nemo {
+    background-image: url('../../images/junction-plaza/nemo.jpg') !important;
+}
+
+#pizza-1 {
+    background-image: url('../../images/junction-plaza/pizza-1.jpg') !important;
+}
+
+#pizza-2 {
+    background-image: url('../../images/junction-plaza/pizza-2.jpg') !important;
+}
+
+#burger {
+    background-image: url('../../images/junction-plaza/burger.jpg') !important;
+}
+
+#cafe-1 {
+    background-image: url('../../images/junction-plaza/cafe-1.jpg') !important;
+}
+
+#cafe-2 {
+    background-image: url('../../images/junction-plaza/cafe-2.jpg') !important;
+}
+
+#cafe-3 {
+    background-image: url('../../images/junction-plaza/cafe-3.jpg') !important;
+}
+
+#gift-1 {
+    background-image: url('../../images/junction-plaza/gift-1.jpg') !important;
+}
+
+#gift-2 {
+    background-image: url('../../images/junction-plaza/gift-2.png') !important;
+}
+
+#gift-3 {
+    background-image: url('../../images/junction-plaza/gift-3.jpg') !important;
+}

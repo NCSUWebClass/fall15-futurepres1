@@ -1,0 +1,83 @@
+#tyrannosaurus-rex {
+    background: url('../../images/dino-world/Tyrannosaurus_Rex.jpg');
+    background-size: cover;
+}
+
+#apatosaurus {
+    background: url('../../images/dino-world/Apatosaurus.jpg');
+    background-size: cover;
+}
+
+#triceratops {
+    background: url('../../images/dino-world/Triceratops.jpg');
+    background-size: cover;
+}
+
+#stegosaurus {
+    background: url('../../images/dino-world/Stegosaurus.jpg');
+    background-size: cover;
+}
+
+#parasaurolophus {
+    background: url('../../images/dino-world/Parasaurolophus.jpg');
+    background-size: cover;
+}
+
+#allosaurus {
+    background: url('../../images/dino-world/Allosaurus.jpg');
+    background-size: cover;
+}
+
+#diabloceratops {
+    background: url('../../images/dino-world/Diabloceratops.jpg');
+    background-size: cover;
+}
+
+#muttaburrasaurus {
+    background: url('../../images/dino-world/Muttaburrasaurus.jpg');
+    background-size: cover;
+}
+
+#megalosaurus {
+    background: url('../../images/dino-world/Megalosaurus.jpg');
+    background-size: cover;
+}
+
+#deinonychus {
+    background: url('../../images/dino-world/Deinonychus.jpg');
+    background-size: cover;
+}
+
+#iguanodon {
+    background: url('../../images/dino-world/Iguanodon.jpg');
+    background-size: cover;
+}
+
+#cryolophosaurus {
+    background: url('../../images/dino-world/Cryolophosaurus.jpg');
+    background-size: cover;
+}
+
+#suchomimus {
+    background: url('../../images/dino-world/Suchomimus.jpg');
+    background-size: cover;
+}
+
+#brachiosaurus {
+    background: url('../../images/dino-world/Brachiosaurus.jpg');
+    background-size: cover;
+}
+
+#dilophosaurus {
+    background: url('../../images/dino-world/Dilophosaurus.jpg');
+    background-size: cover;
+}
+
+#pachyrhinosaurus {
+    background: url('../../images/dino-world/Pachyrhinosaurus.jpg');
+    background-size: cover;
+}
+
+div#dashboard h1 {
+    text-align: center;
+}

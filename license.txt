@@ -1,0 +1,16 @@
+All rights reserved
+
+Owned in entirety by the members of FuturePres1 in Fall 2015 CSC 342 at North Carolina State University
+
+Members' names:
+    Zachary Butler
+    Linda Vue
+    Bada Kim
+    Veronica Sigler
+    Hussein Koprly
+    Felipe Sousa de Andrade
+
+Nothing within or ideas derived from the repository and/or codebase herein may be used or (re)distributed without the
+express written and signed consent of all the above members. The above members retain all rights and ownership of the
+code and intellectual property associated with the FuturePres1 application, with the exception of information and images
+retrieved from cited sources on the internet and elsewhere.

@@ -1,0 +1,29 @@
+div#dashboard {
+    background-color: yellow;
+    height: 600px;
+}
+
+div#dashboard h1 {
+    text-align: center;
+    color: #000;
+    font-weight: bold;
+}
+
+div#dashboard td {
+    width: 50%;
+    vertical-align: top;
+}
+
+div#dashboard .beetype {
+    width: 95%;
+    background-color: #CCC;
+    border: solid black;
+    padding: 10px;
+    margin: 20px;
+    color: #000;
+}
+
+div#dashboard .beetype img {
+    width: 200px;
+    border: solid black;
+}
